@@ -11,7 +11,7 @@ from croniter import croniter
 from boto.utils import get_instance_metadata
 
 __authors__ = 'Adam Gold <adambalali@gmail.com>'
-__description__ = """Tool for stop and start EC2 instances"""
+__description__ = """Tool for stop and start ASG"""
 __license__ = 'MIT'
 
 
